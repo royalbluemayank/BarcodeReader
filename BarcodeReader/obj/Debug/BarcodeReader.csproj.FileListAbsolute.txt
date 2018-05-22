@@ -1,0 +1,8 @@
+C:\Users\mayank1.gupta\Desktop\BarcodeReader\bin\Debug\BarcodeReader.exe
+C:\Users\mayank1.gupta\Desktop\BarcodeReader\bin\Debug\BarcodeReader.pdb
+C:\Users\mayank1.gupta\Desktop\BarcodeReader\obj\Debug\BarcodeReader.csprojResolveAssemblyReference.cache
+C:\Users\mayank1.gupta\Desktop\BarcodeReader\obj\Debug\BarcodeReader.Properties.Resources.resources
+C:\Users\mayank1.gupta\Desktop\BarcodeReader\obj\Debug\BarcodeReader.csproj.GenerateResource.Cache
+C:\Users\mayank1.gupta\Desktop\BarcodeReader\obj\Debug\BarcodeReader.exe
+C:\Users\mayank1.gupta\Desktop\BarcodeReader\obj\Debug\BarcodeReader.pdb
+C:\Users\mayank1.gupta\Desktop\BarcodeReader\obj\Debug\BarcodeReader.BarcodeReader.resources
